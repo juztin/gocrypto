@@ -1,3 +1,7 @@
+// Copyright 2013 Justin Wilson. All rights reserved.
+// Use of this source code is governed by a BSD-style
+// license that can be found in the LICENSE file.
+
 // Package rc2 implements RC2 encryption, as defined in Bruce Schneier's
 // Applied Cryptography.
 package rc2

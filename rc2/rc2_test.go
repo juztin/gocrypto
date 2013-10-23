@@ -1,3 +1,12 @@
+// Copyright 2009 The Go Authors. All rights reserved.
+// Use of this source code is governed by a BSD-style
+// license that can be found in the LICENSE file.
+
+// This file is dervied from the RC4 test code by Google,
+// in an effort to maintain consistant code.
+// This file can be found at:
+//     http://golang.org/src/pkg/crypto/rc4/rc4_test.go
+
 package rc2
 
 import (
